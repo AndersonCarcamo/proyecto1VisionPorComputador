@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+media/
+dataset_splits/
+frames/
+
 # Distribution / packaging
 .Python
 build/
